@@ -1,0 +1,2 @@
+C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildWeb\wwwroot\favicon.ico
+wwwroot\favicon.ico

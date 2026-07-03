@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HogWildWeb.o6a19q3rb4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HogWildWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HogWildWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.HogWildWeb.props",
+      "PackagePath": "build\\HogWildWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.HogWildWeb.props",
+      "PackagePath": "buildMultiTargeting\\HogWildWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.HogWildWeb.props",
+      "PackagePath": "buildTransitive\\HogWildWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

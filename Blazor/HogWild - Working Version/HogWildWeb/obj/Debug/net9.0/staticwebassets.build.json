@@ -1,0 +1,1698 @@
+{
+  "Version": 1,
+  "Hash": "7u+iElUB9ujQI43lwlsco8/Ag8pCWCzEk4Z6wIG2QS8=",
+  "Source": "HogWildWeb",
+  "BasePath": "_content/HogWildWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HogWildWeb\\wwwroot",
+      "Source": "HogWildWeb",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
+      "BasePath": "_content/HogWildWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js",
+      "SourceId": "Extensions.MudBlazor.StaticInput",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\",
+      "BasePath": "_content/Extensions.MudBlazor.StaticInput",
+      "RelativePath": "NavigationObserver.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lp4d2hvui5",
+      "Integrity": "5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7c7lhmh1j6",
+      "Integrity": "ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f96y5mhlyw",
+      "Integrity": "zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f8cglylyng",
+      "Integrity": "724XuWeoxLldHWQVi4StOactAkrQfA+3oH2oLKI2z+4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "HogWildWeb#[.{fingerprint=o6a19q3rb4}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "svsmonk663",
+      "Integrity": "uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "favicon#[.{fingerprint=2jeq8efc6q}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3ren6c1acn",
+      "Integrity": "b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "HogWildWeb#[.{fingerprint=o6a19q3rb4}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "svsmonk663",
+      "Integrity": "uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z4ey23bbr2",
+      "Integrity": "ExohdkNhhCNsu51z7OdG12+dAG2x9xaaaynwTVhCq0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "SourceId": "Extensions.MudBlazor.StaticInput",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Extensions.MudBlazor.StaticInput",
+      "RelativePath": "NavigationObserver.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q1gu6vl06e",
+      "Integrity": "QmEcSw7onHqXA8zTTGusAX2ZXAW6caknC3+uUNsCUos=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "HogWildWeb#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "o6a19q3rb4",
+      "Integrity": "MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "HogWildWeb#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "o6a19q3rb4",
+      "Integrity": "MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "SourceId": "HogWildWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\",
+      "BasePath": "_content/HogWildWeb",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2jeq8efc6q",
+      "Integrity": "8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 01:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000665335995"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1502"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmEcSw7onHqXA8zTTGusAX2ZXAW6caknC3+uUNsCUos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 01:26:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmEcSw7onHqXA8zTTGusAX2ZXAW6caknC3+uUNsCUos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 01:26:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmEcSw7onHqXA8zTTGusAX2ZXAW6caknC3+uUNsCUos="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.lp4d2hvui5.js",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.1\\staticwebassets\\NavigationObserver.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 16 Jul 2025 01:26:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4d2hvui5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.7c7lhmh1j6.css",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7c7lhmh1j6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "610885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015170823"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65915"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ExohdkNhhCNsu51z7OdG12+dAG2x9xaaaynwTVhCq0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZzHmYioOIMEX9F8thiw1Sc+cGGFHLtMWI4q4uvO13CQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-7c7lhmh1j6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ExohdkNhhCNsu51z7OdG12+dAG2x9xaaaynwTVhCq0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ExohdkNhhCNsu51z7OdG12+dAG2x9xaaaynwTVhCq0M="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.f96y5mhlyw.js",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f96y5mhlyw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\Ian\\.nuget\\packages\\mudblazor\\8.15.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060923602"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"724XuWeoxLldHWQVi4StOactAkrQfA+3oH2oLKI2z+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zR6goaoMpR/YVMMSTfCmVNo3kuPgOkjF/ovhkUhAkbk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-f96y5mhlyw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"724XuWeoxLldHWQVi4StOactAkrQfA+3oH2oLKI2z+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 03:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-724XuWeoxLldHWQVi4StOactAkrQfA+3oH2oLKI2z+4="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000336021505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2975"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000336021505"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2975"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\8i0jybordk-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2975"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Feb 2026 05:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b7CPHqpoIGsGVgOrEO+r2XPyaLrLUBwkA6R2jOMbS7M="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008333333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008333333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HogWildWeb.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\9qj0akbodu-o6a19q3rb4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008333333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.o6a19q3rb4.styles.css.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6a19q3rb4"
+        },
+        {
+          "Name": "label",
+          "Value": "HogWildWeb.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008333333333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.styles.css",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HogWildWeb.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MNWav+c1iRPUi+b8mxloIQj8DBAV7PPvYfCTkGyZbac="
+        }
+      ]
+    },
+    {
+      "Route": "HogWildWeb.styles.css.gz",
+      "AssetFile": "C:\\Users\\Ian\\Documents\\NAIT\\Workbook-E01\\Spring-2026-Workbook\\Blazor\\HogWild - Working Version\\HogWildWeb\\obj\\Debug\\net9.0\\compressed\\22kb0tdqen-o6a19q3rb4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Jun 2026 02:12:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uM/Qvp22y5gwA9eBVQ+sUGgazFF/3HDO71lbTYIOJvY="
+        }
+      ]
+    }
+  ]
+}
