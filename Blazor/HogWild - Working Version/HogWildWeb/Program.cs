@@ -60,6 +60,8 @@ builder.Services.AddBackendDependenciesV2(options =>
 	options.UseSqlServer(connectionStringHogWild));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
+//  Example extension method for Receiving
+
 builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddSignInManager()
