@@ -203,13 +203,13 @@ namespace HogWildWeb.Components.Pages.SamplePages
 		//  new customer
 		private void New()
         {
-            NavigationManager.NavigateTo("/SamplePages/CustomerEdit/0");
+            NavigationManager.NavigateTo("/SamplePages/CustomerAddEdit/0");
         }
 
         //  edit selected customer
         private void EditCustomer(int customerID)
         {
-            NavigationManager.NavigateTo($"/SamplePages/CustomerEdit/{customerID}");
+            NavigationManager.NavigateTo($"/SamplePages/CustomerAddEdit/{customerID}");
         }
 
         //  new invoice for selected customer

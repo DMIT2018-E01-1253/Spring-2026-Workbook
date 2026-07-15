@@ -1,6 +1,7 @@
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\bin\Debug\net9.0\HogWildSystemV2.deps.json
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\bin\Debug\net9.0\HogWildSystemV2.dll
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\bin\Debug\net9.0\HogWildSystemV2.pdb
+C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.csproj.AssemblyReference.cache
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.AssemblyInfoInputs.cache
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - W
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\refint\HogWildSystemV2.dll
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.pdb
 C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\ref\HogWildSystemV2.dll
-C:\Users\Ian\Documents\NAIT\Workbook-E01\Spring-2026-Workbook\Blazor\HogWild - Working Version\HogWildSystemV2\obj\Debug\net9.0\HogWildSystemV2.csproj.AssemblyReference.cache
