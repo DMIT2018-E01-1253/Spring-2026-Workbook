@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HogWildWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd8805e1b9a6ac666b0c5e82cea23b183a00f830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8c5edcefff88c0aa33c77ed09ff6c0c4fc63bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HogWildWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HogWildWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
